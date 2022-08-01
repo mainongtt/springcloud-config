@@ -1,1 +1,2 @@
-info=2
+config:
+info:age=2
